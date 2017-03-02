@@ -2,6 +2,4 @@
 
 
 
-echo 222;
-echo 222;
-ehco 333;
+echo 111;
